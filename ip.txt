@@ -21,3 +21,9 @@ vless://749708e7-b951-4331-addb-83eefc7a6e64@de2v6.aihaocdn.cf:33538?type=tcp&se
 vless://f46cd556-d1a1-4675-8215-9fc2ffe24927@dev6.aihaocdn.cf:31552?type=tcp&security=reality&sni=www.goethe.de&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#DE-BV-R|L1
 vless://f3f85b0c-d87b-45c1-cbb3-9ccbf9510833@plv6.aihaocdn.cf:15647?type=tcp&security=reality&sni=www.icloud.com&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=xtls-rprx-vision&fp=chrome#PL-V6
 vless://8c3e2a30-95ed-4d73-95ba-55bdd97a1470@frv6.aihaocdn.cf:12031?type=tcp&security=reality&sni=www.lefigaro.fr&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&flow=xtls-rprx-vision&fp=chrome#FR-SC|L1
+vless://e596535f-7b0a-477c-bd17-414f5883eb18@[2a0f:b700:ffff:fc::]:29647?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.goethe.de&fp=firefox&pbk=sFbTwR7FBEFmXX5lUaNmVQQkc1PlEcOlLai80ImaTGE&sid=44392acd&spx=%2F&type=tcp&headerType=none#TR
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktSLU9DLUNETiIsDQogICJhZGQiOiAiYXdza3IxLmJsdWVzbWt1bi5ldS5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMzI3MDZiZGMtMjY5NS00OGZkLWUzZTktYjNlYzQ2OTFiMzAwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZmgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vless://c7a747e5-c777-4e91-ead1-7e474282923d@awsv6.aihaocdn.cf:443?encryption=none&security=tls&type=ws&path=%2Fdhtgf#JP-CDN-WEB
+
+
+
