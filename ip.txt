@@ -19,3 +19,5 @@ vless://fd4d42f0-112b-4cbb-86b3-feb440b87efe@104.199.246.60:29262?type=tcp&secur
 vless://69bca76a-f100-4d64-b9ba-3e75e6dcc8bd@34.18.43.220:38035?type=tcp&security=reality&fp=firefox&pbk=icDTwM6o-_cKLuSdmE9ST4-giMLZBQJKY7M_dlfT-h0&sni=nature.com&flow=xtls-rprx-vision&sid=7553c4e5&spx=%2F#DA-N1
 vless://749708e7-b951-4331-addb-83eefc7a6e64@de2v6.aihaocdn.cf:33538?type=tcp&security=reality&fp=firefox&pbk=6LRjpBYi3AT-AlRDQzRoJr-Mha8WMvAd9BPkX8gYi3Y&sni=nature.com&flow=xtls-rprx-vision&sid=5fa284c3&spx=%2F#DE-AK-L1
 vless://f46cd556-d1a1-4675-8215-9fc2ffe24927@dev6.aihaocdn.cf:31552?type=tcp&security=reality&sni=www.goethe.de&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&flow=xtls-rprx-vision&fp=chrome#DE-BV-R|L1
+vless://f3f85b0c-d87b-45c1-cbb3-9ccbf9510833@plv6.aihaocdn.cf:15647?type=tcp&security=reality&sni=www.icloud.com&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=xtls-rprx-vision&fp=chrome#PL-V6
+vless://8c3e2a30-95ed-4d73-95ba-55bdd97a1470@frv6.aihaocdn.cf:12031?type=tcp&security=reality&sni=www.lefigaro.fr&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&flow=xtls-rprx-vision&fp=chrome#FR-SC|L1
